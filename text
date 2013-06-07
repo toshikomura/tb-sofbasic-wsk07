@@ -1,0 +1,762 @@
+Alocando 38 bytes em vetor[0]
+Alocando 14 bytes em vetor[1]
+Alocando 35 bytes em vetor[2]
+Alocando 40 bytes em vetor[3]
+Alocando 44 bytes em vetor[4]
+Alocando 20 bytes em vetor[5]
+Alocando 17 bytes em vetor[6]
+Alocando 9 bytes em vetor[7]
+Liberando vetor[2]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 039 bytes ocupados
+Segmento 2: 015 bytes ocupados
+Segmento 3: 036 bytes ocupados
+Segmento 4: 041 bytes ocupados
+Segmento 5: 045 bytes ocupados
+Segmento 6: 021 bytes ocupados
+Segmento 7: 018 bytes ocupados
+Segmento 8: 010 bytes ocupados
+Segmentos livres: 0 / 0 bytes
+Segmentos ocupados: 8 / 225 bytes
+---------
+Alocando 4 bytes em vetor[2]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 039 bytes ocupados
+Segmento 2: 015 bytes ocupados
+Segmento 3: 036 bytes livres
+Segmento 4: 041 bytes ocupados
+Segmento 5: 045 bytes ocupados
+Segmento 6: 021 bytes ocupados
+Segmento 7: 018 bytes ocupados
+Segmento 8: 010 bytes ocupados
+Segmentos livres: 1 / 36 bytes
+Segmentos ocupados: 7 / 189 bytes
+---------
+Alocando 12 bytes em vetor[9]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 039 bytes ocupados
+Segmento 2: 015 bytes ocupados
+Segmento 3: 005 bytes ocupados
+Segmento 4: 019 bytes livres
+Segmento 5: 041 bytes ocupados
+Segmento 6: 045 bytes ocupados
+Segmento 7: 021 bytes ocupados
+Segmento 8: 018 bytes ocupados
+Segmento 9: 010 bytes ocupados
+Segmentos livres: 1 / 19 bytes
+Segmentos ocupados: 8 / 194 bytes
+---------
+Alocando 30 bytes em vetor[14]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 039 bytes ocupados
+Segmento 2: 015 bytes ocupados
+Segmento 3: 005 bytes ocupados
+Segmento 4: 019 bytes ocupados
+Segmento 5: 041 bytes ocupados
+Segmento 6: 045 bytes ocupados
+Segmento 7: 021 bytes ocupados
+Segmento 8: 018 bytes ocupados
+Segmento 9: 010 bytes ocupados
+Segmentos livres: 0 / 0 bytes
+Segmentos ocupados: 9 / 213 bytes
+---------
+Liberando vetor[0]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 039 bytes ocupados
+Segmento 2: 015 bytes ocupados
+Segmento 3: 005 bytes ocupados
+Segmento 4: 019 bytes ocupados
+Segmento 5: 041 bytes ocupados
+Segmento 6: 045 bytes ocupados
+Segmento 7: 021 bytes ocupados
+Segmento 8: 018 bytes ocupados
+Segmento 9: 010 bytes ocupados
+Segmento 10: 031 bytes ocupados
+Segmentos livres: 0 / 0 bytes
+Segmentos ocupados: 10 / 244 bytes
+---------
+Alocando 25 bytes em vetor[0]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 039 bytes livres
+Segmento 2: 015 bytes ocupados
+Segmento 3: 005 bytes ocupados
+Segmento 4: 019 bytes ocupados
+Segmento 5: 041 bytes ocupados
+Segmento 6: 045 bytes ocupados
+Segmento 7: 021 bytes ocupados
+Segmento 8: 018 bytes ocupados
+Segmento 9: 010 bytes ocupados
+Segmento 10: 031 bytes ocupados
+Segmentos livres: 1 / 39 bytes
+Segmentos ocupados: 9 / 205 bytes
+---------
+Liberando vetor[9]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 041 bytes ocupados
+Segmento 7: 045 bytes ocupados
+Segmento 8: 021 bytes ocupados
+Segmento 9: 018 bytes ocupados
+Segmento 10: 010 bytes ocupados
+Segmento 11: 031 bytes ocupados
+Segmentos livres: 1 / 1 bytes
+Segmentos ocupados: 10 / 231 bytes
+---------
+Liberando vetor[3]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 041 bytes ocupados
+Segmento 7: 045 bytes ocupados
+Segmento 8: 021 bytes ocupados
+Segmento 9: 018 bytes ocupados
+Segmento 10: 010 bytes ocupados
+Segmento 11: 031 bytes ocupados
+Segmentos livres: 2 / 20 bytes
+Segmentos ocupados: 9 / 212 bytes
+---------
+Liberando vetor[6]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 041 bytes livres
+Segmento 7: 045 bytes ocupados
+Segmento 8: 021 bytes ocupados
+Segmento 9: 018 bytes ocupados
+Segmento 10: 010 bytes ocupados
+Segmento 11: 031 bytes ocupados
+Segmentos livres: 3 / 61 bytes
+Segmentos ocupados: 8 / 171 bytes
+---------
+Alocando 23 bytes em vetor[12]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 041 bytes livres
+Segmento 7: 045 bytes ocupados
+Segmento 8: 021 bytes ocupados
+Segmento 9: 018 bytes livres
+Segmento 10: 010 bytes ocupados
+Segmento 11: 031 bytes ocupados
+Segmentos livres: 4 / 79 bytes
+Segmentos ocupados: 7 / 153 bytes
+---------
+Liberando vetor[2]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes ocupados
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 4 / 43 bytes
+Segmentos ocupados: 8 / 177 bytes
+---------
+Liberando vetor[5]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes ocupados
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 4 / 43 bytes
+Segmentos ocupados: 8 / 177 bytes
+---------
+Alocando 15 bytes em vetor[6]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes ocupados
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 5 / 64 bytes
+Segmentos ocupados: 7 / 156 bytes
+---------
+Liberando vetor[4]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes ocupados
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 4 / 45 bytes
+Segmentos ocupados: 8 / 175 bytes
+---------
+Liberando vetor[1]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes livres
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes ocupados
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 5 / 90 bytes
+Segmentos ocupados: 7 / 130 bytes
+---------
+Alocando 34 bytes em vetor[3]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes livres
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes ocupados
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 6 / 105 bytes
+Segmentos ocupados: 6 / 115 bytes
+---------
+Liberando vetor[7]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes ocupados
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 5 / 60 bytes
+Segmentos ocupados: 7 / 160 bytes
+---------
+Alocando 5 bytes em vetor[1]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 6 / 70 bytes
+Segmentos ocupados: 6 / 150 bytes
+---------
+Alocando 46 bytes em vetor[15]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 5 / 55 bytes
+Segmentos ocupados: 7 / 165 bytes
+---------
+Alocando 49 bytes em vetor[9]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 047 bytes ocupados
+Segmentos livres: 5 / 55 bytes
+Segmentos ocupados: 8 / 212 bytes
+---------
+Alocando 11 bytes em vetor[7]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 047 bytes ocupados
+Segmento 14: 050 bytes ocupados
+Segmentos livres: 5 / 55 bytes
+Segmentos ocupados: 9 / 262 bytes
+---------
+Liberando vetor[3]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 047 bytes ocupados
+Segmento 14: 050 bytes ocupados
+Segmentos livres: 4 / 34 bytes
+Segmentos ocupados: 10 / 283 bytes
+---------
+Alocando 37 bytes em vetor[11]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes livres
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 047 bytes ocupados
+Segmento 14: 050 bytes ocupados
+Segmentos livres: 5 / 79 bytes
+Segmentos ocupados: 9 / 238 bytes
+---------
+Liberando vetor[15]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 047 bytes ocupados
+Segmento 14: 050 bytes ocupados
+Segmentos livres: 4 / 34 bytes
+Segmentos ocupados: 10 / 283 bytes
+---------
+Liberando vetor[9]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 047 bytes livres
+Segmento 14: 050 bytes ocupados
+Segmentos livres: 5 / 81 bytes
+Segmentos ocupados: 9 / 236 bytes
+---------
+Alocando 31 bytes em vetor[3]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 4 / 34 bytes
+Segmentos ocupados: 8 / 186 bytes
+---------
+Alocando 29 bytes em vetor[10]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes ocupados
+Segmentos livres: 4 / 34 bytes
+Segmentos ocupados: 9 / 218 bytes
+---------
+Alocando 61 bytes em vetor[8]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes ocupados
+Segmento 14: 030 bytes ocupados
+Segmentos livres: 4 / 34 bytes
+Segmentos ocupados: 10 / 248 bytes
+---------
+Liberando vetor[3]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes ocupados
+Segmento 14: 030 bytes ocupados
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 4 / 34 bytes
+Segmentos ocupados: 11 / 310 bytes
+---------
+Alocando 21 bytes em vetor[5]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes livres
+Segmento 14: 030 bytes ocupados
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 5 / 66 bytes
+Segmentos ocupados: 10 / 278 bytes
+---------
+Liberando vetor[6]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes ocupados
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes ocupados
+Segmento 14: 030 bytes ocupados
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 4 / 34 bytes
+Segmentos ocupados: 11 / 310 bytes
+---------
+Liberando vetor[10]
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes ocupados
+Segmento 14: 030 bytes ocupados
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 5 / 53 bytes
+Segmentos ocupados: 10 / 291 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes ocupados
+Segmento 14: 030 bytes livres
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 6 / 83 bytes
+Segmentos ocupados: 9 / 261 bytes
+---------
+Libero saiu
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes ocupados
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes ocupados
+Segmento 14: 030 bytes livres
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 6 / 83 bytes
+Segmentos ocupados: 9 / 261 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes ocupados
+Segmento 14: 030 bytes livres
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 7 / 98 bytes
+Segmentos ocupados: 8 / 246 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes ocupados
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes livres
+Segmento 14: 030 bytes livres
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 8 / 130 bytes
+Segmentos ocupados: 7 / 214 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmento 13: 032 bytes livres
+Segmento 14: 030 bytes livres
+Segmento 15: 062 bytes ocupados
+Segmentos livres: 9 / 151 bytes
+Segmentos ocupados: 6 / 193 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes ocupados
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 7 / 89 bytes
+Segmentos ocupados: 5 / 131 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes livres
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 8 / 134 bytes
+Segmentos ocupados: 4 / 86 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmento 7: 005 bytes livres
+Segmento 8: 045 bytes livres
+Segmento 9: 021 bytes livres
+Segmento 10: 018 bytes livres
+Segmento 11: 010 bytes livres
+Segmento 12: 031 bytes ocupados
+Segmentos livres: 8 / 134 bytes
+Segmentos ocupados: 4 / 86 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmentos livres: 3 / 35 bytes
+Segmentos ocupados: 3 / 55 bytes
+---------
+---------
+Inicio bss: 0x804a001
+Segmento 1: 026 bytes ocupados
+Segmento 2: 001 bytes livres
+Segmento 3: 015 bytes livres
+Segmento 4: 005 bytes ocupados
+Segmento 5: 019 bytes livres
+Segmento 6: 024 bytes ocupados
+Segmentos livres: 3 / 35 bytes
+Segmentos ocupados: 3 / 55 bytes
+---------
